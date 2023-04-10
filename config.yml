@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+baseURL: "https://samiakabir.github.io/"
+title: Samia Kabir
 paginate: 20
 theme: PaperMod
 
@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: pmichaillat
+    twitter: SamiaKabir12
 
 taxonomies:
     tag: tags
