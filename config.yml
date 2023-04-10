@@ -55,8 +55,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and science-related topics. In January–June 2023, I am visiting the University of California–San Diego."
+          title: Samia Kabir
+          subtitle: "I'm a 3rd year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Intelligent Interactive System Lab at Purdue,  working under the supervision of Dr. Tianyi Zhang."
           imageUrl: "/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
@@ -72,9 +72,9 @@ params:
         - name: CV
           url: "/cv.pdf"
         - name: Google Scholar
-          url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
+          url: "https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en"
         - name: Email
-          url: "mailto:pascalmichaillat@gmail.com"
+          url: "mailto:kabirs@purdue.edu"
         - name: Location
           url: /location/
         - name: Office Hours
