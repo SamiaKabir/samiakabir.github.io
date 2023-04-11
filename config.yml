@@ -64,9 +64,9 @@ params:
     buttons:
       - name: Papers
         url: /papers/
-      - name: Courses
+      - name: Teaching
         url: /courses/
-      - name: Design
+      - name: Projects
         url: /design/
   socialIcons:
     - name: CV
