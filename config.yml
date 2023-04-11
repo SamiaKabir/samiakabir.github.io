@@ -76,7 +76,7 @@ params:
     - name: Google Scholar
       url: "https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en"
     - name: GitHub
-      url: "https://github.com/pmichaillat"
+      url: "https://github.com/SamiaKabir"
 
   assets:
     disableHLJS: true
