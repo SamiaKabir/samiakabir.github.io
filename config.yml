@@ -7,108 +7,97 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: SamiaKabir12
+  twitter: SamiaKabir12
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: Papers
-          url: /papers/
-          weight: 1
-        - name: Courses
-          url: /courses/
-          weight: 2
-        - name: Design
-          url: /design/
-          weight: 3
-        - name: Tags
-          url: /tags/
-          weight: 4
-        - name: Archive
-          url: /archive/
-          weight: 5
+  main:
+    - name: Papers
+      url: /papers/
+      weight: 1
+    - name: Courses
+      url: /courses/
+      weight: 2
+    - name: Design
+      url: /design/
+      weight: 3
+    - name: Tags
+      url: /tags/
+      weight: 4
+    - name: Archive
+      url: /archive/
+      weight: 5
 
 params:
-    description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
-    author: Samia Kabir
-    googleAnalyticsID: "G-97G4MZ4061"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: true
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Samia Kabir
-          subtitle: "I'm a 3rd year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Intelligent Interactive System Lab at Purdue,  working under the supervision of Dr. Tianyi Zhang."
-          imageUrl: "/picture.jpeg"
-          imageWidth: 170
-          imageHeight: 170
-          imageTitle: Samia Kabir
-          buttons:
-            - name: Papers
-              url: /papers/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
-    socialIcons:
-        - name: CV
-          url: "/cv.pdf"
-        - name: Google Scholar
-          url: "https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en"
-        - name: Email
-          url: "mailto:kabirs@purdue.edu"
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
-        - name: GitHub
-          url: "https://github.com/pmichaillat"
-        - name: YouTube
-          url: "https://www.youtube.com/@pmichaillat"
-        - name: Substack
-          url: "https://pmichaillat.substack.com"
+  description: "I'm a 3rd year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Intelligent Interactive System Lab at Purdue,  working under the supervision of Dr. Tianyi Zhang."
+  author: Samia Kabir
+  googleAnalyticsID: "G-97G4MZ4061"
+  DateFormat: "April 2023"
+  defaultTheme: light
+  hideFooter: true
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Samia Kabir
+    subtitle: "I'm a 3rd year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Intelligent Interactive System Lab at Purdue,  working under the supervision of Dr. Tianyi Zhang."
+    imageUrl: "/picture.jpeg"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: Samia Kabir
+    buttons:
+      - name: Papers
+        url: /papers/
+      - name: Courses
+        url: /courses/
+      - name: Design
+        url: /design/
+  socialIcons:
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/samia-kabir/"
+    - name: Google Scholar
+      url: "https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en"
+    - name: GitHub
+      url: "https://github.com/pmichaillat"
 
-    assets:
-        disableHLJS: true
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: true
-        hiddenInSingle: true
-    label:
-      text: "Samia Kabir"
-      icon: /favicon.ico
-      iconHeight: 18
+  assets:
+    disableHLJS: true
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: true
+    hiddenInSingle: true
+  label:
+    text: "Samia Kabir"
+    icon: /favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: xcode
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
-
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: xcode
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
 # max number of characters:
 # * title: 70
 # * description: 120–155
