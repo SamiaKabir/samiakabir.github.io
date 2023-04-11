@@ -69,6 +69,8 @@ params:
       - name: Design
         url: /design/
   socialIcons:
+    - name: CV
+      url: "/cv.pdf"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/samia-kabir/"
     - name: Google Scholar
