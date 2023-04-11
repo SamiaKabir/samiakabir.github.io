@@ -17,18 +17,18 @@ menu:
     - name: Papers
       url: /papers/
       weight: 1
-    - name: Courses
+    - name: Teaching
       url: /courses/
       weight: 2
-    - name: Design
+    - name: Projects
       url: /design/
       weight: 3
-    - name: Tags
-      url: /tags/
-      weight: 4
-    - name: Archive
-      url: /archive/
-      weight: 5
+    # - name: Tags
+    #   url: /tags/
+    #   weight: 4
+    # - name: Archive
+    #   url: /archive/
+    #   weight: 5
 
 params:
   description: "I'm a 3rd year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Intelligent Interactive System Lab at Purdue,  working under the supervision of Dr. Tianyi Zhang."
