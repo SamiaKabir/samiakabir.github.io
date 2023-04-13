@@ -14,14 +14,14 @@ taxonomies:
 
 menu:
   main:
-    - name: Papers
+    - name: Publication
       url: /papers/
       weight: 1
-    - name: Teaching
-      url: /courses/
-      weight: 2
     - name: Projects
       url: /design/
+      weight: 2
+    - name: Teaching
+      url: /courses/
       weight: 3
     # - name: Tags
     #   url: /tags/
@@ -33,8 +33,8 @@ menu:
 params:
   description: "I'm a 3rd year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Intelligent Interactive System Lab at Purdue,  working under the supervision of [Dr. Tianyi Zhang](https://tianyi-zhang.github.io/)."
   author: Samia Kabir
-  googleAnalyticsID: "G-97G4MZ4061"
-  DateFormat: "April 2023"
+  # googleAnalyticsID: "G-97G4MZ4061"
+  DateFormat: "January 2006"
   defaultTheme: light
   hideFooter: true
   disableThemeToggle: true
@@ -62,12 +62,13 @@ params:
     imageHeight: 200
     imageTitle: Samia Kabir
     buttons:
-      - name: Papers
+      - name: Publication
         url: /papers/
-      - name: Teaching
-        url: /courses/
       - name: Projects
         url: /design/
+      - name: Teaching
+        url: /courses/
+
   socialIcons:
     - name: CV
       url: "/cv.pdf"
