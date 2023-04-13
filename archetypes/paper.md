@@ -1,13 +1,13 @@
----
-title: "Paper Title" 
+<!-- ---
+title: "Paper Title"
 date: 2012-06-01
 url: /paper/
-aliases: 
+aliases:
     - /oldurl.html
 tags: ["keyword 1","keyword 2"]
 author: ["Author 1", "Author 2"]
-description: "Paper description (for search engines, < 155 chars)" 
-summary: "Paper summary (for list page, < 270 chars)" 
+description: "Paper description (for search engines, < 155 chars)"
+summary: "Paper summary (for list page, < 270 chars)"
 cover:
     image: "/paper.png"
     alt: "Image from paper"
@@ -43,4 +43,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Citation:
 
 Author 1, Author 2. Year. "Title." *Journal* Volume (Issue): First page--Last page. https://doi.org/paper.
-
+ -->
