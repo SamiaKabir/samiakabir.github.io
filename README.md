@@ -1,3 +1,3 @@
-# samia's personal web site
+# Samia's personal website
 
-This Website was made with [Minimalist Hugo Template for Academic Websites](https://pascalmichaillat.org/d5/)
+This website was made with [Minimalist Hugo Template for Academic Websites](https://pascalmichaillat.org/d5/)
