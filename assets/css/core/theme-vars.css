@@ -16,9 +16,10 @@
     --hljs-bg: rgb(28, 29, 33);
     --code-bg: rgb(245, 245, 245);
     --border: rgb(238, 238, 238);
-    --darkpurple: #7393B3;
-    --midpurple:#7393B3;
-    --lightpurple: #7393B3;
+    --darkpurple: #959599;
+    /* #c3d2e4 */
+    --midpurple:#959599;
+    --lightpurple: #959599;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
