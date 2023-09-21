@@ -68,6 +68,8 @@ params:
         url: /design/
       - name: Teaching
         url: /courses/
+      - name: News
+        url: /news/
 
   socialIcons:
     - name: CV
