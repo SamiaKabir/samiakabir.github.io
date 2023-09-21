@@ -1,4 +1,4 @@
 ---
-# title: "Design"
-# description: "LaTeX templates for academic papers, academic presentations, bibliographies. LaTeX commands to typeset math easily."
+title: "Academic and Research Projects"
+#description: "Academic and Research Projects."
 ---
