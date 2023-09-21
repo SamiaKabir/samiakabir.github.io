@@ -23,9 +23,9 @@ menu:
     - name: Teaching
       url: /courses/
       weight: 3
-    # - name: Tags
-    #   url: /tags/
-    #   weight: 4
+    - name: News
+      url: /news/
+      weight: 4
     # - name: Archive
     #   url: /archive/
     #   weight: 5
