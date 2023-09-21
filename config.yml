@@ -14,11 +14,11 @@ taxonomies:
 
 menu:
   main:
-    - name: Publication
-      url: /papers/
-      weight: 1
     - name: Projects
       url: /design/
+      weight: 1
+    - name: Publication
+      url: /papers/
       weight: 2
     - name: Teaching
       url: /courses/
@@ -62,10 +62,10 @@ params:
     imageHeight: 200
     imageTitle: Samia Kabir
     buttons:
-      - name: Publication
-        url: /papers/
       - name: Projects
         url: /design/
+      - name: Publication
+        url: /papers/
       - name: Teaching
         url: /courses/
       - name: News
