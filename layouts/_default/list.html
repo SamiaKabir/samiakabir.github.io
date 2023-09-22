@@ -70,7 +70,7 @@
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content" style="display: flex; gap:10px;">
     <div >
-        <img src="{{ with .Params.image }}{{ . }}{{ end }}"  width="600" />
+        <img src="{{ with .Params.image }}{{ . }}{{ end }}"  width="800" />
     </div>
    <div>
       <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
