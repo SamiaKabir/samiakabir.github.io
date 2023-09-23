@@ -69,8 +69,8 @@
   </header>
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content" style="display: flex; gap:10px;">
-    <div >
-        <img src="{{ with .Params.image }}{{ . }}{{ end }}"  width="800" />
+    <div style="width: 100%;">
+        <img src="{{ with .Params.image }}{{ . }}{{ end }}"  />
     </div>
    <div>
       <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
@@ -78,12 +78,14 @@
 
   </div>
   {{- end }}
-  {{- if not (.Param "hideMeta") }}
+  <!-- {{- if not (.Param "hideMeta") }}
   <footer class="entry-footer">
     {{- partial "post_meta.html" . -}}
   </footer>
+  {{- end }} -->
+  {{- if (ne (.Param "hideSummary") true) }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
   {{- end }}
-  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
 {{- end }}
 
