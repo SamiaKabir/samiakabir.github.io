@@ -69,10 +69,10 @@
   </header>
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content" style="display: flex; gap:10px;">
-    <div style="width: 100%;">
+    <div style="width: 40%;">
         <img src="{{ with .Params.image }}{{ . }}{{ end }}"  />
     </div>
-   <div>
+   <div style="width: 50%;">
       <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
    </div>
 
