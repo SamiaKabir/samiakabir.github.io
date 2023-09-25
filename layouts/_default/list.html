@@ -61,12 +61,22 @@
 <article class="{{ $class }}">
   {{- $isHidden := (site.Params.cover.hidden | default site.Params.cover.hiddenInList) }}
   {{- partial "cover.html" (dict "cxt" . "IsHome" true "isHidden" $isHidden) }}
+  {{- if (ne (.Param "hideSummary") true) }}
   <header class="entry-header">
     <h2>
       {{- .Title }}
       {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
     </h2>
   </header>
+  {{- end }}
+  {{- if (ne (.Param "hideSummary") false) }}
+  <header class="entry-header" style="color:lightgray;">
+    <h2 style="color:gray;font-style: oblique; font-size:24px">
+      {{- .Title }}
+      {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+    </h2>
+  </header>
+  {{- end }}
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content" style="display: flex; gap:10px;">
     <div style="width: 40%;">
