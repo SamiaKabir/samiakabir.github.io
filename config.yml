@@ -76,8 +76,8 @@ params:
      Thank you for visitng my webpage!
      "
     imageUrl: "/picture.jpeg"
-    imageWidth: 200
-    imageHeight: 200
+    imageWidth: 180
+    imageHeight: 180
     imageTitle: Samia Kabir
     buttons:
       - name: Projects
