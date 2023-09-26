@@ -16,11 +16,10 @@ description: ""
 <br> <br>
 
 * Roy, Chiradeep, Mahesh Shanbhag, Mahsan Nourani, Tahrima Rahman, **Samia Kabir**, Vibhav Gogate, Nicholas Ruozzi, and Eric D. Ragan. ["Explainable Activity Recognition in Videos."](https://personal.utdallas.edu/~nrr150130/Papers/exss19.pdf) In IUI Workshops, vol. 2, no. 4. 2019.  
-<br> <br>
-
+<br> 
 * Mehnaz Tabassum, Tanzima Hashem, and **Samia Kabir**. ["A crowd enabled approach for processing nearest neighbor and range queries in incomplete databases with accuracy guarantee."](https://www.researchgate.net/profile/Tanzima-Hashem/publication/308910421_A_crowd_enabled_approach_for_processing_nearest_neighbor_and_range_queries_in_incomplete_databases_with_accuracy_guarantee/links/5ba7374ca6fdccd3cb6c69c5/A-crowd-enabled-approach-for-processing-nearest-neighbor-and-range-queries-in-incomplete-databases-with-accuracy-guarantee.pdf) Pervasive and Mobile Computing 39 (2017): 249-26.
 
-<br><br><br>
+<br><br>
 
 
 [Google Scholar](https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en)
