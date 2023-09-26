@@ -98,6 +98,8 @@ params:
       url: "https://scholar.google.com/citations?user=DZ5jg-IAAAAJ&hl=en"
     - name: GitHub
       url: "https://github.com/SamiaKabir"
+    - name: Email
+      url: "mailto:kabirs@purdue.edu"
 
   assets:
     disableHLJS: true
