@@ -7,7 +7,7 @@ description: ""
 
 
 
-* **Kabir, Samia**, David N. Udo-Imeh, Bonan Kou, and Tianyi Zhang. "Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions."" **CHI'24**.
+* **Kabir, Samia**, David N. Udo-Imeh, Bonan Kou, and Tianyi Zhang. "Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions." **CHI'24**.
 <br><br>
 
 
