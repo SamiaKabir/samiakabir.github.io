@@ -5,7 +5,8 @@ description: ""
 
 
 ## Recent News
-
+* <span style="color: gray;">[January 2024]</span> 2 papers (as first author) have been accepted for **CHI 2024**.
+<br> <br>
 
 * <span style="color: gray;">[October 2023]</span> I have received the **Graduate Teaching Award** from the Department of Computer Science at Purdue University. This award is given to recognize the excellent teaching and leadership by graduate teaching assistants (GTAs).
 <br> <br>

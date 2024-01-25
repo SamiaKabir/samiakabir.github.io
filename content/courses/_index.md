@@ -13,7 +13,7 @@ description: ""
 ## Purdue University
 
 * **CS 101: Digital Literacy** <br>
-    Sessions: Fall'21, Spring'22, Fall'22, Spring'23 (**Head TA**), Fall'23 (**Head TA**) <br>
+    Sessions: Fall'21, Spring'22, Fall'22, Spring'23 (**Head TA**), Fall'23 (**Head TA**), Spring'24 <br>
     Instructors: [Dr. George Adams](https://www.cs.purdue.edu/people/faculty/gba.html) & [Xiaojin Liu](https://www.cs.purdue.edu/people/faculty/liu218.html)
 
 <br>
