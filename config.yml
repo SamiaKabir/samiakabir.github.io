@@ -31,7 +31,7 @@ menu:
     #   weight: 5
 
 params:
-  description: "I'm a 3rd year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Human-Centered Software Systems Lab at Purdue,  working under the supervision of [Dr. Tianyi Zhang](https://tianyi-zhang.github.io/)."
+  description: "I'm a 4th year Ph.D. student in Computer Science at Purdue University. My research interest is in the intersection of Natural Language Processing, Information Visualization, and Human-AI Interaction. I am currently a part of the Human-Centered Software Systems Lab at Purdue,  working under the supervision of [Dr. Tianyi Zhang](https://tianyi-zhang.github.io/)."
   author: Samia Kabir
   # googleAnalyticsID: ""
   DateFormat: "January 2006"
@@ -56,7 +56,7 @@ params:
   profileMode:
     enabled: true
     title: Samia Kabir
-    subtitle: "Hello! This is Samia! I'm a 3rd year Ph.D. student in Computer Science at Purdue University. My research interest is
+    subtitle: "Hello! This is Samia! I'm a 4th year Ph.D. student in Computer Science at Purdue University. My research interest is
      in the intersection of Natural Language Processing, Information Visualization,
      and Human-AI Interaction. I am currently a part of the Human-Centered Software Systems Lab at Purdue,
      working under the supervision of [Dr. Tianyi Zhang](https://tianyi-zhang.github.io/).
