@@ -11,7 +11,7 @@ description: ""
 <br><br>
 
 
-* **Kabir, Samia**, Lixiang Li, and Tianyi Zhang. ["STILE: Exploring and Debugging Social Biases in Pre-trained Text Representations." In Proceedings of the CHI Conference on Human Factors in Computing Systems](/chi24_stile.pdf) **(CHI ’24)**.
+* **Kabir, Samia**, Lixiang Li, and Tianyi Zhang. ["STILE: Exploring and Debugging Social Biases in Pre-trained Text Representations."](/chi24_stile.pdf)In Proceedings of the CHI Conference on Human Factors in Computing Systems **(CHI ’24)**.
 <br><br>
 
 
