@@ -5,7 +5,7 @@ description: ""
 
 
 ## Recent News
-* <span style="color: gray;">[April 2024]</span> I received the Spring 2024 travel grant of Purdue's **Women in Science Program (WISP)**.
+* <span style="color: gray;">[April 2024]</span> I received the Spring 2024 travel grant from Purdue **Women in Science Program (WISP)**.
 <br> <br>
 
 * <span style="color: gray;">[April 2024]</span> I am selected as a recipient of Purdue's **Graduate School Summer Research Grant** for Summer 2024.
