@@ -5,6 +5,9 @@ description: ""
 
 
 ## Recent News
+* <span style="color: gray;">[April 2024]</span> I am selected as a recipient of Purdue's **Graduate School Summer Research Grant** for Summer 2024.
+<br> <br>
+
 * <span style="color: gray;">[January 2024]</span> 2 papers (as first author) have been accepted for **CHI 2024**.
 <br> <br>
 
