@@ -7,15 +7,11 @@ description: ""
 
 
 
-* **Kabir, Samia**, David N. Udo-Imeh, Bonan Kou, and Tianyi Zhang. ["Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions."](/chi24_chatgpt.pdf)In Proceedings of the CHI Conference on Human Factors in Computing Systems **(CHI ’24)**.
+* **Kabir, Samia**, David N. Udo-Imeh, Bonan Kou, and Tianyi Zhang. ["Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions."](https://dl.acm.org/doi/pdf/10.1145/3613904.3642596)In Proceedings of the CHI Conference on Human Factors in Computing Systems **(CHI ’24)**.
 <br><br>
 
 
-* **Kabir, Samia**, Lixiang Li, and Tianyi Zhang. ["STILE: Exploring and Debugging Social Biases in Pre-trained Text Representations."](/chi24_stile.pdf)In Proceedings of the CHI Conference on Human Factors in Computing Systems **(CHI ’24)**.
-<br><br>
-
-
-* **Kabir, Samia**, David N. Udo-Imeh, Bonan Kou, and Tianyi Zhang. ["Who Answers It Better? An In-Depth Analysis of ChatGPT and Stack Overflow Answers to Software Engineering Questions."](https://arxiv.org/pdf/2308.02312.pdf) arXiv preprint arXiv:2308.02312 (2023). **[Pre-Print]**
+* **Kabir, Samia**, Lixiang Li, and Tianyi Zhang. ["STILE: Exploring and Debugging Social Biases in Pre-trained Text Representations."](https://dl.acm.org/doi/pdf/10.1145/3613904.3642111)In Proceedings of the CHI Conference on Human Factors in Computing Systems **(CHI ’24)**.
 <br><br>
 
 * Esmaeili, Shaghayegh, **Samia Kabir**, Anthony M. Colas, Rhema P. Linder, and Eric D. Ragan. ["Evaluating Graphical Perception of Visual Motion for Quantitative Data Encoding."](https://ieeexplore.ieee.org/document/9839572) IEEE Transactions on Visualization and Computer Graphics (2022).
